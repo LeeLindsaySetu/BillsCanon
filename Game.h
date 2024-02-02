@@ -39,7 +39,9 @@ private:
 	bool m_exitGame; // control exiting game
 
 	sf::RectangleShape m_wall; // box for wall
-};
+	sf::RectangleShape m_target; // Target for box to fire at
+	sf::Vector2f m_targetLocation; // where the target is located 
+};	
 
 #endif // !GAME_HPP
 
