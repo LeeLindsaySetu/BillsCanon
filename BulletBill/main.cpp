@@ -1,7 +1,7 @@
 /// <summary>
 /// simple game loop for SFML[2.5.1]
 /// 
-/// @author Lee
+/// @author Lee test
 /// @date 12/02/24
 /// </summary>
 
